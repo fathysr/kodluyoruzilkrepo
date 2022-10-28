@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
 
 
 [![](https://raw.githubusercontent.com/fathysr/kodluyoruzilkrepo/main/github.png)](http://https://raw.githubusercontent.com/fathysr/kodluyoruzilkrepo/main/github.png)
